@@ -1,0 +1,1 @@
+Carpeta que contiene la data para realizar la evaluación y entrenamiento de los modelos Supervisados.

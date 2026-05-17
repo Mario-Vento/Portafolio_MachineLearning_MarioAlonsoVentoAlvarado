@@ -1,1 +1,1 @@
-Carpeta que contiene la data para realizar la evaluación y entrenamiento de los modelos.
+Carpeta que contiene la data para realizar la evaluación y entrenamiento de los modelos No Supervisados.
