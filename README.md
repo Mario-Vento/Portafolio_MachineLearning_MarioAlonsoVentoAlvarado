@@ -1,4 +1,4 @@
-# Portafolio_MachineLearning_MarioAlonsoVentoAlvarado
+# Portafolio MachineLearning: Mario Alonso Vento Alvarado
 Portafolio de Machine Learning en el cual entreno y evalúo modelos de  clasificación binaria  (aprendizaje Supervisado) y modelos de clusterización de datos (aprendizaje No Supervisado ) empleando Python y sus librerías asociadas, considerando algoritmos como regresión lineal y logística, árboles de decisión, técnicas ensemble K-Means y DBScan.
 
 Este repositorio contiene dos notebooks de Google Colab los cuales abordan problemas de:
@@ -8,14 +8,14 @@ Este repositorio contiene dos notebooks de Google Colab los cuales abordan probl
 ## 📁 Estructura del repositorio
 
 📁 Portafolio_MachineLearning_MarioAlonsoVentoAlvarado/
-- `AprendizajeSupervisado/` 📂
-  - `EastWestAirlinesNN.csv` 🎁 – Datos de clientes de la aerolínea
-  - `fichero.sql` 💻 – Script SQL auxiliar
-  - `MarioAlonsoVentoAlvarado_MachineLearning_AprendizajeSupervisado.ipynb` 📓
 - `AprendizajeNoSupervisado/` 📂
-  - `ecommerce_customers.xlsx` 🎁 – Datos de clientes del e‑commerce
+  - `ecommerce_customers.xlsx` 🗃️ – Datos de clientes del e‑commerce
   - `fichero.sql` 💻 – Script SQL auxiliar
   - `MarioAlonsoVentoAlvarado_MachineLearning_ModelosNoSupervisado.ipynb` 📓
+- `AprendizajeSupervisado/` 📂
+  - `EastWestAirlinesNN.csv` 🗃️ – Datos de clientes de la aerolínea
+  - `fichero.sql` 💻 – Script SQL auxiliar
+  - `MarioAlonsoVentoAlvarado_MachineLearning_AprendizajeSupervisado.ipynb` 📓
 - `README.md` 📄
 
 ## 📦 Requisitos
