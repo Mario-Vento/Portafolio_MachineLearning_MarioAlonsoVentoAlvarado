@@ -1,0 +1,2 @@
+# Portafolio_MachineLearning_MarioAlonsoVentoAlvarado
+Portafolio de Machine Learning en el cual entreno y evalúo modelos de  clasificación binaria  (aprendizaje Supervisado) y modelos de clusterización de datos (aprendizaje No Supervisado ) empleando Python y sus librerías asociadas, considerando algoritmos como regresión lineal y logística, árboles de decisión, técnicas ensemble K-Means y DBScan.
